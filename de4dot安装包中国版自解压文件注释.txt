@@ -1,0 +1,13 @@
+;下面的注释包含自解压脚本命令
+
+Path=C:\de4dot
+SavePath
+
+Silent=2
+Overwrite=1
+Title=de4dot安装包中国版
+Text
+{
+             内外兼修，八音指路，宁可错过，不可做错！！！
+}
+Shortcut=D, "De4Dot图形界面.exe","","de4dot★☆图形界面","De4Dot图形界面"
